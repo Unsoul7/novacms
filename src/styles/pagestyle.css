@@ -1,0 +1,12 @@
+.form-container {
+
+    position: absolute;
+    width: 512px;
+    height: 513px;
+    left: 500px;
+    top: 130px;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+
+}
